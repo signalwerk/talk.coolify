@@ -102,7 +102,7 @@ background: true
 
 ## coolify
 
-# see it as a *quickstart* <br>for **mid-sized** projects
+# see it as a _quickstart_ <br>for **mid-sized** projects
 
 --s--
 
@@ -123,8 +123,7 @@ background: true
 
 ## let's see...
 
-# *Demo*
-
+# _Demo_
 
 ```
 DOMAIN: https://team-talks-test.srv.signalwerk.ch
@@ -132,9 +131,19 @@ PORT: 8085
 ENV-NAME: TOKEN
 ```
 
-* [Server](https://github.com/signalwerk/coolify.demo/blob/main/index.js)
-* [Dockerfile](https://github.com/signalwerk/coolify.demo/blob/main/Dockerfile)
+- [Server](https://github.com/signalwerk/coolify.demo/blob/main/index.js)
+- [Dockerfile](https://github.com/signalwerk/coolify.demo/blob/main/Dockerfile)
 
+--s--
+
+```fm
+style: negative
+background: true
+```
+
+## _Next meeting_
+
+# [Liip Lab 2023 · AI](https://liip.to/ailab)
 
 --s--
 
