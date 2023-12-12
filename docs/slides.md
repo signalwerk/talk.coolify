@@ -23,30 +23,6 @@ _the open-source hosting alternative_
 --s--
 
 ```fm
-style: image
-background:
-  image: https://portrait.signalwerk.ch/illustration/2020/rgb/w4000/stefan-huber.jpg
-  position: 50% 40%
-```
-
-## Stefan
-
-<div class="box box--w40p box--bottom box--white box--padding small">
-
-- Developer
-- ❦ Typography
-
-</div>
-
-<footer class="footer--right">
-
-Illustration by [Benjamin Güdel](http://www.guedel.biz/) · 2020
-
-</footer>
-
---s--
-
-```fm
 style: negative
 background: true
 ```
@@ -67,7 +43,7 @@ background: true
 
 ## What is it
 
-- _deploy_ applications/services
+- _deploy_ applications/services **to a server with docker**
 - Bring your own server (BYOS) – simple installation
 - Cloud version available
 - Like [CapRover](https://caprover.com/) or [Kubero](https://www.kubero.dev/)
@@ -133,17 +109,6 @@ ENV-NAME: TOKEN
 
 - [Server](https://github.com/signalwerk/coolify.demo/blob/main/index.js)
 - [Dockerfile](https://github.com/signalwerk/coolify.demo/blob/main/Dockerfile)
-
---s--
-
-```fm
-style: negative
-background: true
-```
-
-## _Next meeting_
-
-# [Liip Lab 2023 · AI](https://liip.to/ailab)
 
 --s--
 
