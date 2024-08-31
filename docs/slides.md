@@ -12,11 +12,11 @@ background: true
 
 # {{process.content.frontmatter.title}}
 
-_the open-source hosting alternative_
+_eine Open-Source Hosting-Alternative_
 
 <footer>
 
-2023 · Zurich · Stefan Huber
+2024 · DDOS Schaffhausen · Stefan Huber
 
 </footer>
 
@@ -27,26 +27,26 @@ style: negative
 background: true
 ```
 
-## Claim of coolify (v3)
+## Versprechen von coolify (v3)
 
-# An _open-source_ & <br>**self-hostable** <br>Heroku/Netlify alternative
-
---s--
-
-## Why?
-
-- [Kubernetes](https://kubernetes.io/) or [Devtron](https://devtron.ai/) is great but complex
-- [Docker](https://www.docker.com/) is needed (sometimes)
-- [Heroku](https://www.heroku.com/) is great but _expensive_ & **vendor lock-in**
+# Eine _Open-Source_ & <br>**selbsthostbare** <br>Heroku/Netlify-Alternative
 
 --s--
 
-## What is it
+## Warum?
 
-- _deploy_ applications/services **to a server with docker**
-- Bring your own server (BYOS) – simple installation
-- Cloud version available
-- Like [CapRover](https://caprover.com/) or [Kubero](https://www.kubero.dev/)
+- [Kubernetes](https://kubernetes.io/) oder [Devtron](https://devtron.ai/) sind super, aber komplex
+- [Docker](https://www.docker.com/) it's ok... 
+- [Heroku](https://www.heroku.com/) ist nice, aber _teuer_ & **Vendor Lock-In**
+
+--s--
+
+## Was ist es
+
+- _Bereitstellung_ von Anwendungen/Diensten **auf einem Server mit Docker**
+- Bring your own Server (BYOS) – einfache Installation
+- Cloud-Version verfügbar
+- Ähnlich wie [CapRover](https://caprover.com/) oder [Kubero](https://www.kubero.dev/)
 
 --s--
 
@@ -55,19 +55,19 @@ style: negative
 background: true
 ```
 
-## Like what?
+## Was?
 
-# You need to _host_ your <br>**web-service**
+# Du musst deinen <br>**Web-Service** _hosten_
 
 --s--
 
-## What you get
+## Was du bekommst
 
-- _Server hosting_ <small>(Build, Docker, Secrets, …)</small>
-- **Database hosting** <small>(MariaDB, MongoDB, PostgresSQL, Redis, …)</small>
-- _CI_ integration <small>(gitlab, github)</small>
-- Automated **route** setup <small>([traefik.io](https://traefik.io/))</small>
-- Automated _SSL certificate_ setup <small>([Let's Encrypt](https://letsencrypt.org/))</small>
+- _Server-Hosting_ <small>(Build, Docker, Secrets, …)</small>
+- **Datenbank-Hosting** <small>(MariaDB, MongoDB, PostgresSQL, Redis, …)</small>
+- _CI_ Integration <small>(gitlab, github)</small>
+- Automatische **Routeneinrichtung** <small>([traefik.io](https://traefik.io/))</small>
+- Automatische _SSL-Zertifikateinrichtung_ <small>([Let's Encrypt](https://letsencrypt.org/))</small>
 
 --s--
 
@@ -78,17 +78,17 @@ background: true
 
 ## coolify
 
-# see it as a _quickstart_ <br>for **mid-sized** projects
+# Betrachte es als _Schnellstart_ <br>für **mittelgrosse** Projekte
 
 --s--
 
-## What you don't get
+## Was du nicht bekommst
 
-- No load balancing (no Autoscaling)
-- No (good) Backup out of the box
-- No in depth routing ([traefik](https://traefik.io/) is not in your hand)
+- Kein Load Balancing (kein Autoscaling)
+- Kein (gutes) Backup out of the box
+- Kein tiefgehendes Routing ([traefik](https://traefik.io/) liegt nicht in deiner Hand)
 
-> Version 4 soon comming – let's see
+> Version 4 kommt bald – mal sehen
 
 --s--
 
@@ -97,12 +97,12 @@ style: negative
 background: true
 ```
 
-## let's see...
+## mal sehen...
 
 # _Demo_
 
 ```
-DOMAIN: https://team-talks-test.srv.signalwerk.ch
+DOMAIN: https://coolify-talk.srv.signalwerk.ch
 PORT: 8085
 ENV-NAME: TOKEN
 ```
@@ -119,4 +119,4 @@ background: true
 
 ## exit 0; thx
 
-# Questions?
+# Fragen?
