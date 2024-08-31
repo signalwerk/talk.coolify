@@ -2,6 +2,11 @@
 
 [Show Slides](https://signalwerk.github.io/talk.coolify/)
 
+## Versions
+
+- [2024 DDOS Lightning Talk](https://signalwerk.github.io/talk.coolify/?href=https://raw.githubusercontent.com/signalwerk/talk.coolify/release/ddos-lightning-talk/docs/slides.md) · DE
+- [2023 Liip Team Talk](https://signalwerk.github.io/talk.coolify/?href=https://raw.githubusercontent.com/signalwerk/talk.coolify/release/liip-team-talk/docs/slides.md) · EN
+
 ---
 
 ## Live preview
